@@ -12,7 +12,7 @@ Ce projet consiste à créer une base de données pour la gestion d'événements
 
 
 - **Modèle Conceptuel de Données (MCD)**&#x20;
-![Modèle Conceptuel de Données](images/MCD2.png)
+![Modèle Conceptuel de Données](images/MCD.png)
 
 
 - **Modèle Logique de Données (MLD)**&#x20;
